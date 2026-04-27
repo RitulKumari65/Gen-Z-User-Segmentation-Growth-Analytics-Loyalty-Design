@@ -83,6 +83,7 @@ Built an interactive dashboard to visualise:
 ## Dashboard Preview
 
 ![Main Dashboard](dashboard/dashboard.png)
+https://github.com/RitulKumari65/Gen-Z-User-Segmentation-Growth-Analytics-Loyalty-Design/blob/main/dashboard/Screenshot%202026-04-27%20091258.png
 
 ---
 
